@@ -183,11 +183,60 @@ p{
         position: static;
         transform:rotate(0);
     }
-     ::-webkit-scrollbar {
+    ::-webkit-scrollbar {
         width: 0;  /* Remove scrollbar space */
         background: transparent;  /* Optional: just make scrollbar invisible */
     }
+    html,body{
+        overflow-x:hidden;
+    }
     
+}
+
+@media(max-width:600px){
+    html,body{
+        overflow-x:hidden;
+        text-align: center;
+    }
+
+    .big-heading{
+        font-size: 2.5rem;
+        line-height :1;
+        font-weight:800;
+    }
+
+    .container-fluid{
+        padding: 1% 7% 3%;
+    }
+
+    h2{
+        font-size: 2rem;
+        font-weight: 800;
+        line-height: 1.5;
+    }
+    
+    h3{
+        font-size: 1rem;
+        font-weight: 800;
+        align-content: center;
+    }
+    
+    /*********** PRICING SECTION ***********/
+
+    #pricing{
+        text-align: center;
+        width: 100%;
+        padding: 30px;
+        
+    }
+
+    #footer{
+        background-color: #fff;
+        padding: 3% 7%;
+    }
+     
+    
+   
 }
 
 
