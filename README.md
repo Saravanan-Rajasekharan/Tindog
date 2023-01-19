@@ -3,6 +3,10 @@ A website for finding matches for dogs, built under the guidance of Angela Yu,  
 
 <a href="https://saravanan-rajasekharan.github.io/Tindog/" target="_blank">Tindog</a>
 
-![Desktop view](/Tindog/images/Desktop-laptop-view.png?raw=true "Desktop/Laptop view")
 
-![Mobileview](/Tindog/images/mobile-view.png?raw=true "Mobile view")
+Desktop/laptop view
+![Desktop view](/images/Desktop-laptop-view.png?raw=true "Desktop/Laptop view")
+
+Mobile view
+
+![Mobileview](/images/mobile-view.png?raw=true "Mobile view")
