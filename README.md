@@ -9,4 +9,4 @@ Desktop/laptop view
 
 Mobile view
 
-![Mobileview](/images/mobile-view.png?raw=true "Mobile view")
+![Mobileview](/images/mobile_view.png?raw=true "Mobile view")
